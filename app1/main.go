@@ -11,5 +11,5 @@ func main() {
 		return
 	}
 
-	fmt.Printf("Goodbye, %s!\n", os.Args[1])
+	fmt.Printf("Goodbye, %s! We won't be missin' ya!\n", os.Args[1])
 }
