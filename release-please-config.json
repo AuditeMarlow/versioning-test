@@ -1,7 +1,11 @@
 {
   "release-type": "simple",
   "packages": {
-    "app1": {},
-    "app2": {}
+    "app1": {
+      "component": "app1"
+    },
+    "app2": {
+      "component": "app2"
+    }
   }
 }
