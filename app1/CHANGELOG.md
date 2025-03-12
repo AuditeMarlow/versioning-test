@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/AuditeMarlow/versioning-test/compare/app1-v1.2.0...app1-v1.3.0) (2025-03-12)
+
+
+### Features
+
+* update app1 ([4f1b3e2](https://github.com/AuditeMarlow/versioning-test/commit/4f1b3e2497b4187e864227548961ec91d810533d))
+
 ## [1.2.0](https://github.com/AuditeMarlow/versioning-test/compare/app1-v1.1.0...app1-v1.2.0) (2025-03-12)
 
 
